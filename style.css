@@ -1,3 +1,13 @@
-p {
-    color: blueviolet;
+h1 {
+    font-family: "Helvetica", sans-serif;
+    font-weight: 100;
+    font-size: 60px;
+    text-align: center;
+    color: rgb(220, 20, 60);
+    background-color: rgba(60, 195, 226, 0.376);
+}
+
+img {
+    height: auto;
+    width: 320px;
 }
