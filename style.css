@@ -1,4 +1,4 @@
-h1 {
+.header {
     font-family: "Helvetica", sans-serif;
     font-weight: 100;
     font-size: 60px;
@@ -7,7 +7,14 @@ h1 {
     background-color: rgba(60, 195, 226, 0.376);
 }
 
-img {
+.image {
     height: auto;
     width: 320px;
+    border-radius: 10px;
+}
+
+.link {
+    color: rgb(205, 134, 47);
+    font-family: Trebuchet MS, sans-serif;
+    font-weight: 600;
 }
